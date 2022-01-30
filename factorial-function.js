@@ -14,4 +14,6 @@ function getFactorial(number){
 }
 
 const firstFactorial = getFactorial(9);
+const secondFactorial = getFactorial(11);
 console.log(firstFactorial)
+console.log(secondFactorial)
